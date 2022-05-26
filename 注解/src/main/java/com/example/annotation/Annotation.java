@@ -11,7 +11,7 @@ import java.time.temporal.ValueRange;
 @MyAnnotation("傻逼毒瘤")
 public class Annotation {
 
-
+    @MyAnnotation(name="傻呗",value = "hhh")
     public void test(){
 
     }
